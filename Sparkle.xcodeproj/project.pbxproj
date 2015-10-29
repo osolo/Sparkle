@@ -190,7 +190,7 @@
 		767B61AC1972D488004E0C3C /* SUGuidedPackageInstaller.h in Headers */ = {isa = PBXBuildFile; fileRef = 767B61AA1972D488004E0C3C /* SUGuidedPackageInstaller.h */; };
 		767B61AD1972D488004E0C3C /* SUGuidedPackageInstaller.m in Sources */ = {isa = PBXBuildFile; fileRef = 767B61AB1972D488004E0C3C /* SUGuidedPackageInstaller.m */; };
 		767B61AE1972D488004E0C3C /* SUGuidedPackageInstaller.m in Sources */ = {isa = PBXBuildFile; fileRef = 767B61AB1972D488004E0C3C /* SUGuidedPackageInstaller.m */; };
-		A5BF4F1D1BC7668B007A052A /* SUTestWebServer.m in Sources */ = {isa = PBXBuildFile; fileRef = A5BF4F1C1BC7668B007A052A /* SUTestWebServer.m */; settings = {ASSET_TAGS = (); }; };
+		A5BF4F1D1BC7668B007A052A /* SUTestWebServer.m in Sources */ = {isa = PBXBuildFile; fileRef = A5BF4F1C1BC7668B007A052A /* SUTestWebServer.m */; };
 		F8761EB11ADC5068000C9034 /* SUCodeSigningVerifierTest.m in Sources */ = {isa = PBXBuildFile; fileRef = F8761EB01ADC5068000C9034 /* SUCodeSigningVerifierTest.m */; };
 		F8761EB31ADC50EB000C9034 /* SparkleTestCodeSignApp.zip in Resources */ = {isa = PBXBuildFile; fileRef = F8761EB21ADC50EB000C9034 /* SparkleTestCodeSignApp.zip */; };
 		F8761EB61ADC5E7A000C9034 /* SUCodeSigningVerifier.m in Sources */ = {isa = PBXBuildFile; fileRef = 61B078CD15A5FB6100600039 /* SUCodeSigningVerifier.m */; };
@@ -1256,7 +1256,7 @@
 			attributes = {
 				CLASSPREFIX = SU;
 				LastSwiftUpdateCheck = 0700;
-				LastUpgradeCheck = 0710;
+				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Sparkle Project";
 				TargetAttributes = {
 					612279D80DB5470200AB99EA = {
